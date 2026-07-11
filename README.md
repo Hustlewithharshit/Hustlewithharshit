@@ -97,11 +97,11 @@ My expertise includes designing algorithms, developing full-stack applications, 
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://linkedin.com/in/hustle-with-harshit">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/Hustlewithharshit">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
