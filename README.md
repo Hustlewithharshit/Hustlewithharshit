@@ -1,123 +1,57 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Harshit%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-</p>
 
-<h1 align="center">
-  Hi 👋, I'm Harshit Tiwari
-</h1>
+# Harshit Tiwari
 
-<h3 align="center">
-  C++ Programmer | Problem Solver | MERN Stack Developer | Software Engineer
-</h3>
+**Software Developer | MERN Stack | C++ & DSA**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Solutions;C%2B%2B+%7C+DSA+%7C+MERN+Stack;Writing+Clean+and+Efficient+Code;Always+Improving+Through+Engineering" />
-</p>
+I'm currently pursuing my Master of Computer Applications (MCA) at **IIT Patna**, focusing on software engineering, full-stack development, and problem-solving.
 
+I work with C++, JavaScript, and the MERN stack, while strengthening my understanding of Data Structures and Algorithms, object-oriented programming, and backend development.
 
----
+## Tech Stack
 
-## 🚀 About Me
+- **Languages:** C++, JavaScript, SQL
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub
 
-Software Development Engineer specializing in **C++, Data Structures & Algorithms, and MERN Stack Development**.
+## Featured Projects
 
-I build efficient, scalable, and reliable software solutions with a strong focus on:
+### NewsHub Pro
+A responsive news application featuring categorized news, search functionality, and API integration.
 
-- Performance optimization
-- Clean architecture
-- Problem solving
-- Maintainable code
+**Tech:** HTML, CSS, JavaScript, NewsAPI
 
-My expertise includes designing algorithms, developing full-stack applications, and applying strong computer science fundamentals to solve real-world problems.
+[Source Code](https://github.com/Hustlewithharshit/NewsHub) | [Live Demo](https://news-hub-pro-live-news-feed.vercel.app/)
 
+### Job Connect
+A frontend job-listing application with job search and browsing functionality.
 
----
+**Tech:** HTML, CSS, JavaScript
 
-## 💻 Tech Stack
+[Source Code](https://github.com/Hustlewithharshit/Job-Connect)
 
-### Programming Languages
+### C++ Mini Projects
+A collection of command-line applications covering programming fundamentals and practical problem-solving.
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,javascript,python" />
-</p>
+**Tech:** C++
 
+[Source Code](https://github.com/Hustlewithharshit/cpp-mini-projects)
 
-### Frontend Development
+### Frontend Mentor Challenges
+A collection of responsive frontend challenges organized by difficulty level.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
+**Tech:** HTML, CSS, JavaScript
 
+[Source Code](https://github.com/Hustlewithharshit/frontend-mentor-challenges)
 
-### Backend Development
+## Currently Working On
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+- Practicing Data Structures and Algorithms in C++
+- Strengthening backend development and database skills
+- Building practical web applications using modern technologies
 
+## Connect With Me
 
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-
----
-
-# 🧠 Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Operating Systems
-- Computer Networks
-- System Design Concepts
-
-
----
-
-# 🛠️ What I Build
-
-✔ Efficient C++ solutions and algorithm implementations
-
-✔ Full-stack applications using MERN Stack
-
-✔ REST APIs and backend services
-
-✔ Database-driven applications
-
-✔ Scalable and maintainable software systems
-
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/hustle-with-harshit">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Hustlewithharshit">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
-
----
-
-<p align="center">
-
-⭐ "Code is not just about solving problems, it's about building solutions."
-
-</p>
-
-
-<!-- Footer -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
-</p>
+- **LinkedIn:** [Harshit Tiwari](https://www.linkedin.com/in/hustle-with-harshit/)
+- **GitHub:** [Hustlewithharshit](https://github.com/Hustlewithharshit)
